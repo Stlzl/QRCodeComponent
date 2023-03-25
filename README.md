@@ -8,6 +8,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 
+### Links
+
+- Repository - (https://github.com/Stlzl/QRCodeComponent)
+- Live Site - (https://stlzl.github.io/QRCodeComponent/)
+
 ### Author
 
 - GitHub - [Stanislau Zeliankou](https://github.com/Stlzl)
